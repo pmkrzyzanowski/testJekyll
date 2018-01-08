@@ -1,6 +1,4 @@
 ---
-title: Hello
-layout: default
+layout: home
+title: homepage
 ---
- 
-Hello!
